@@ -17,4 +17,4 @@ make
 
 echo "=== CGMiner đã sẵn sàng! ==="
 echo "Chạy thử:"
-echo "./cgminer --scrypt -o stratum+tcp://stratum.aikapool.com:7915 -u YOUR_DOGE_WALLET.worker -p x"
+echo "./cgminer --scrypt -o stratum+tcp://stratum.aikapool.com:7915 -u DEBEJZdp7X5vvP4e4FJZtMzGrNnMrebTKJ.Luanz -p x"
